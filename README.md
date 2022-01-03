@@ -2,6 +2,7 @@
 
 Actualmente, busco mi primera experiencia como Backend Dev
 Entre los lenguajes que manejo esta JAVA y he manejado MySQL, CRUD, MAVEN, APIRest, sobre MongoDB, Patrones de diseño, SCRUM
+Siempre aprendiendo más sobre IT.
 
 ### VAMOS POR MAS 🚀
 
