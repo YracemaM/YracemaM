@@ -1,8 +1,8 @@
 
 ### HELLO WORLD 👋
 
-📌 Soy Yracema y busco mi primera experiencia como Backend Dev.  
-Conozco JAVA, MySQL, CRUD, MAVEN, APIRest, sobre MongoDB, Patrones de diseño, SCRUM. 
+📌 Soy Yracema y busco mi primera experiencia en IT  
+Conozco algo de Jira, Testing manual y estoy haciendo una capacitacion FullStack
 Con ganas de  seguir aprendiendo más sobre IT.
 
 ### VAMOS POR MAS 🚀
